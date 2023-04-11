@@ -1,0 +1,10 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3, C4",CP_Radial_D8.0mm_P3.50mm,4,1000 uF,C106511
+J1,Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical,1,PXL_1_Output,C293546
+J2,Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical,1,PXL_2_Output,C293546
+J3,Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical,1,PXL_3_Output,C293546
+J4,Molex_Micro-Fit_3.0_43650-0315_1x03_P3.00mm_Vertical,1,PXL_4_Output,C293546
+J5,796949-2,1,VIN,C430601
+J6,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,1,PXL_Input,C144395
+"R1, R2, R3, R4",1206,4,4.7K,C104821
+U1,SN74AHCT125D,1,SN74AHCT125D,C155176
