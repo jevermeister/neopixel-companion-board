@@ -2,6 +2,9 @@
 
 This is a board to control and power Neopixels (WS2812 and derivatives) using a separate microcontroller.
 
+**Please note that the board doesn't feature any fuses to keep it compact. If for whichever reasons you get a short, bad things may happen!
+If in doubt, add a 5A fuse after the microfit connector for additional safety**
+
 To reliably control and power also large strips, the board does a couple of things:
 
 * A 1000uF capacitor for each strip to buffer initial power spikes which may cause the Neopixel controller to brownout due to voltage drops (which would cause the strip to now show anything)
